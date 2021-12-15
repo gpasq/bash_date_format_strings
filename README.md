@@ -5,3 +5,4 @@ Date formatting is not hard, but it's always a pain in the ass that I have to RT
 | Format   |      Command       |   | |
 |----------|:-------------:|------:|-|
 | 12/15/2021 |  date +%x | MM/DD/YYYY | Locale date |
+| 10:20:35 |  date +%X | HH:MM:SS | Locale time |
